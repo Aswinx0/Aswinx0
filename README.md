@@ -4,9 +4,9 @@ I'm a passionate and creative software developer who enjoys building reliable an
 ## 🛠️ Technologies and Tools
 
 - 💻 Languages:   C, C++, JavaScript, Python.
-- 🧰 Frameworks and Libraries: 
-- ☁️ Cloud Platforms:
-- 🛠️ Tools: 
+- 🧰 Frameworks and Libraries: React.Js.
+- ☁️ Cloud Platforms: Azure
+- 🛠️ Tools: Git, GitHub.
 
           
     
