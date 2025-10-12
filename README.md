@@ -3,10 +3,14 @@ I'm a passionate and creative software developer who enjoys building reliable an
 
 ## 🛠️ Technologies and Tools
 
-- 💻 Languages:   C, C++, JavaScript, Python.
-- 🧰 Frameworks and Libraries: React.Js.
-- ☁️ Cloud Platforms: Azure
-- 🛠️ Tools: Git, GitHub.
+- Programming Languages : C, C++, SQL, Python.
+- Web & Mobile Technologies : HTML, CSS, JavaScript, React.js, AngularJS, Redux, REST API.
+- Backend & Frameworks: Spring Boot.
+- AI / Machine Learning Frameworks: TensorFlow.
+- Cloud & DevOps: Microsoft Azure.
+- Databases : MySQL.
+- Core : Data Structures and Algorithms, OOPS, DBMS.
+- Tools : Git, GitHub, VS code, Power BI, Excel.
 
 ## 📚 My Coding Profile
 - Leetcode https://leetcode.com/u/Aswin_rajr
