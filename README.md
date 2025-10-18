@@ -5,7 +5,7 @@ I'm a passionate and creative software developer who enjoys building reliable an
 
 - Programming Languages : C, C++, SQL, Python.
 - Web & Mobile Technologies : HTML, CSS, JavaScript, React.js, AngularJS, Redux, REST API.
-- Backend & Frameworks: Spring Boot.
+- Backend & Frameworks: Spring Boot, Firebase.
 - AI / Machine Learning Frameworks: TensorFlow.
 - Cloud & DevOps: Microsoft Azure.
 - Databases : MySQL.
